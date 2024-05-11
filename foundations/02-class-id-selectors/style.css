@@ -1,0 +1,17 @@
+.odd {
+    background-color: pink;
+    font-family: rgb(255, 167, 167);
+}
+.odd.very-diff-changes {
+    font-size: 60;
+}
+
+#even-one {
+    color: blue;
+    font-size: 36;
+}
+#even-two {
+    background-color: lightgreen;
+    font-size: 90;
+    font-weight: bold;
+}
